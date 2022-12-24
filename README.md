@@ -1,1 +1,1 @@
-# PERULANGAN-DAN-ARRAY (11) dan Sekuensi dan percabangan (10)
+# PERULANGAN-DAN-ARRAY (11) 
